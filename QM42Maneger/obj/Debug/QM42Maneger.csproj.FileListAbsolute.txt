@@ -1,0 +1,19 @@
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\bin\Debug\QM42Maneger.exe.config
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\bin\Debug\QM42Maneger.exe
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\bin\Debug\QM42Maneger.pdb
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.csprojResolveAssemblyReference.cache
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.Form1.resources
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.Properties.Resources.resources
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.csproj.GenerateResource.Cache
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.csproj.CoreCompileInputs.cache
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.exe
+C:\Users\automacao\Documents\Visual Studio 2017\projetos\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.pdb
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\bin\Debug\QM42Maneger.exe.config
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\bin\Debug\QM42Maneger.exe
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\bin\Debug\QM42Maneger.pdb
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.csprojAssemblyReference.cache
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.Form1.resources
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.Properties.Resources.resources
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.csproj.GenerateResource.cache
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.exe
+C:\Users\User\Desktop\programas\QM42Maneger\QM42Maneger\obj\Debug\QM42Maneger.pdb
